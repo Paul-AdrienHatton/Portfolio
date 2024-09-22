@@ -1,8 +1,7 @@
-import { buttonVariants, Button } from "@/components/ui/button"
+import { buttonVariants } from "@/components/ui/button"
 import { Section } from "./Section"
 import Link from 'next/link';
 import { cn } from "@/lib/utils"
-import { GmailIcon } from "./icons/GmailIcon";
 import { InstagramIcon } from "./icons/InstagramIcon";
 import { GithubIcon } from './icons/GithubIcon';
 import { LinkedinIcon } from "./icons/LinkedinIcon";

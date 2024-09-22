@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { LucideIcon } from "./icons/LucideIcon"
+import { LucideIcon } from "lucide-react"
 
 export type SideProjectProps = {
     Logo: LucideIcon,

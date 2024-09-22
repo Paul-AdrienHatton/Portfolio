@@ -26,7 +26,7 @@ export const Skills = () => {
             <div className="flex flex-col gap-2 mt-5">
                 <VuejsIcon size={42}/>
                 <h3 className="text-2xl font-semibold tracking-tight">Vuejs</h3>
-                <p className="text-sm text-muted-foreground py-2">My main framework is <Code>Vuejs</Code>, working on composition API. It's the framework that i use for most of my projects.</p>
+                <p className="text-sm text-muted-foreground py-2">My main framework is <Code>Vuejs</Code>, working on composition API. It&apos;s the framework that i use for most of my projects.</p>
             </div>
             <div className="flex flex-col gap-2 mt-5">
                 <VuetifyIcon size={42}/>
@@ -61,7 +61,7 @@ export const Skills = () => {
             <div className="flex flex-col gap-2 mt-5">
                 <WordpressIcon size={42}/>
               <h3 className="text-2xl font-semibold tracking-tight">Wordpress</h3>
-              <p className="text-sm text-muted-foreground py-2">I used <Code>Wordpress</Code> for one of my project in my formation .</p>
+              <p className="text-sm text-muted-foreground py-2">I used <Code>Wordpress</Code> for one of my project in my formation.</p>
           </div>
         </div>
     </Section>

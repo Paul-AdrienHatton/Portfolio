@@ -1,8 +1,6 @@
 import { Card } from "@/components/ui/card"
 import { Section } from "./Section"
-import { Home, User, Notebook, FileText, Briefcase, ArrowUpRight } from "lucide-react"; 
-import Link from "next/link"
-import { Badge } from "@/components/ui/badge";
+import { User, Notebook, FileText, Briefcase } from "lucide-react"; 
 import { SideProject, SideProjectProps } from "./SideProject";
 import { Work, WorkProps } from "./Work";
 import { ContactCard } from "./ContactCard";
