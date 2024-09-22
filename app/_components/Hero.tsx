@@ -18,7 +18,7 @@ export const Hero = () => {
             I love creating content on{" "}
             <Link href={"https://www.javascript.com/"}>
               <Code className="inline-flex items-center gap-1">
-                <JavascriptIcon size={16} className="inline" alt="javascript logo" /> JavaScript
+                <JavascriptIcon size={16} className="inline"/> JavaScript
               </Code>
             </Link>, currently working at{" "}
             <Link href={"https://mobhilis.fr/mobhilis/"}>
