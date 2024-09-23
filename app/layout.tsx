@@ -47,3 +47,7 @@ export default function RootLayout({
     </html>
   );
 }
+
+    // "build": "next build",
+    // "export": "next export",
+    // "deploy": "next build && gh-pages -d out"
