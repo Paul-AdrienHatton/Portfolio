@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-     "dev": "next dev"
+     "dev": "next dev",
+     "vercel-build": "pnpm install --no-frozen-lockfile && next build"
   },
   "homepage": "https://Paul-AdrienHatton.github.io/Portfolio",
   "dependencies": {
